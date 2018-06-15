@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cucumber-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cucumber-java-2.1.0.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cucumber-junit-2.1.0.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cucumber-picocontainer-2.1.0.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/cucumber-reporting-3.12.0.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/picocontainer-2.15.jar"/>
+	<classpathentry kind="lib" path="//10.237.3.16/training$/Cucumber/CucumberJars/tag-expressions-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,140 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 178013760,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I want to write a step with \"name1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "name1",
+                  "offset": 29
+                }
+              ],
+              "location": "def.a1(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 837614,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I check for the \"5\" in step",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 17
+                }
+              ],
+              "location": "def.a2(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 226807,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify the \"success\" in step",
+            "match": {
+              "arguments": [
+                {
+                  "val": "success",
+                  "offset": 14
+                }
+              ],
+              "location": "def.a3(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 331388,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I want to write a step with \"name2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "name2",
+                  "offset": 29
+                }
+              ],
+              "location": "def.a1(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 238997,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I check for the \"7\" in step",
+            "match": {
+              "arguments": [
+                {
+                  "val": "7",
+                  "offset": 17
+                }
+              ],
+              "location": "def.a2(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 185744,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify the \"Fail\" in step",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Fail",
+                  "offset": 14
+                }
+              ],
+              "location": "def.a3(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "package7/tester.feature"
+  }
+]
